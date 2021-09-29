@@ -1,0 +1,30 @@
+{
+  "name": "clean-arch-with-node",
+  "version": "1.0.0",
+  "description": "for testing purpose ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumardevsingh/clean-arch-node-app.git"
+  },
+  "keywords": [
+    "clean",
+    "architecture",
+    "node",
+    "nodejs",
+    "app"
+  ],
+  "author": "devendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumardevsingh/clean-arch-node-app/issues"
+  },
+  "homepage": "https://github.com/kumardevsingh/clean-arch-node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
